@@ -1,0 +1,22 @@
+@model OnlineCV.Models.TaxModel
+
+@{
+    ViewData["Title"] = "Tax Calculator";
+}
+
+<h1>Калькулятор налогов Молдовы</h1>
+
+<form asp-action="Index" method="post">
+    <label>Введите доход (MDL):</label>
+    <input asp-for="Income" type="number" step="0.01" />
+    <button type="submit">Рассчитать</button>
+</form>
+
+@if (Model.TotalTax > 0)
+{
+    <h3>Результаты:</h3>
+    <p>Подоходный налог (PIT): @Model.PIT MDL</p>
+    <p>Социальный взнос (CAS): @Model.CAS MDL</p>
+    <p>Медицинский взнос (CASS): @Model.CASS MDL</p>
+    <p><strong>Всего налогов: @Model.TotalTax MDL</strong></p>
+}

@@ -17,7 +17,6 @@
 /home/kolya/C#/HelloWorldApp/obj/Debug/net9.0/scopedcss/Views/Shared/_Layout.cshtml.rz.scp.css
 /home/kolya/C#/HelloWorldApp/obj/Debug/net9.0/scopedcss/bundle/HelloWorldApp.styles.css
 /home/kolya/C#/HelloWorldApp/obj/Debug/net9.0/scopedcss/projectbundle/HelloWorldApp.bundle.scp.css
-/home/kolya/C#/HelloWorldApp/obj/Debug/net9.0/compressed/k4cspbhtw3-lugek5hnai.gz
 /home/kolya/C#/HelloWorldApp/obj/Debug/net9.0/compressed/y3d1qar23w-61n19gt1b8.gz
 /home/kolya/C#/HelloWorldApp/obj/Debug/net9.0/compressed/71z5kb9e3a-fr7q2aak1r.gz
 /home/kolya/C#/HelloWorldApp/obj/Debug/net9.0/compressed/xenmelrrk8-bqjiyaj88i.gz
@@ -95,3 +94,5 @@
 /home/kolya/C#/HelloWorldApp/obj/Debug/net9.0/HelloWorldApp.pdb
 /home/kolya/C#/HelloWorldApp/obj/Debug/net9.0/HelloWorldApp.genruntimeconfig.cache
 /home/kolya/C#/HelloWorldApp/obj/Debug/net9.0/ref/HelloWorldApp.dll
+/home/kolya/C#/HelloWorldApp/obj/Debug/net9.0/HelloWorldApp.sourcelink.json
+/home/kolya/C#/HelloWorldApp/obj/Debug/net9.0/compressed/k4cspbhtw3-726b3lsxhy.gz
